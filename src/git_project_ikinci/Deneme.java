@@ -6,6 +6,7 @@ public class Deneme {
 		System.out.println("ikinci satir kodum");
 		System.out.println("Githubda degisiklik yaptim");
 		System.out.println("Leyla");
+		System.out.println("Cakisma-Leyla");
 	}
 
 }
